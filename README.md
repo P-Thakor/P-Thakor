@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Parth Thakor
 - 👀 I’m interested in Web Development, particularly in MERN stack
 - 🌱 I’m currently learning NextJS
-- 📫 How to reach me ... Mail: partht.social@gmail.com
 
 <!---
 P-Thakor/P-Thakor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
