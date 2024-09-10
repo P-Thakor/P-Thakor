@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parth Thakor
 - 👀 I’m interested in Web Development, particularly in MERN stack
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me ... Mail: partht.social@gmail.com
 - 😄 Pronouns: He/Him
 
