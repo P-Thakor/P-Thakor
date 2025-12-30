@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parth Thakor
-- 👀 I’m interested in Web Development, particularly in MERN stack
-- 🌱 I’m currently learning NextJS
+- 👀 I’m interested in Systems Engineering and High Performance Applications
+- 🌱 I’m currently working in Rust and GoLang.
 
 <!---
 P-Thakor/P-Thakor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
