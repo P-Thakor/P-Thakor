@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parth Thakor
-- 👀 I’m interested in Systems Engineering and High Performance Applications
+- 👀 I’m interested in Systems Engineering and building high performance applications
 - 🌱 I’m currently working in Rust and GoLang.
 
 <!---
